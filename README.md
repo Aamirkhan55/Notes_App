@@ -1,4 +1,4 @@
-# hive_database
+# Notes_app
 
 A new Flutter project.
 
